@@ -7,7 +7,7 @@ This repository contains intentionally broken Python 3 starter code in `project3
 ### Requirements (15 marks)
 
 - Identify and fix the errors.
-- Correct the “Too high” and “Too low” messages.
+- Correct “Too high” and “Too low” messages.
 - Count the number of attempts correctly.
 - Continue accepting guesses until the correct answer is entered.
 - Test the completed program.
