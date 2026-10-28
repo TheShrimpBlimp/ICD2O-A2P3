@@ -2,7 +2,7 @@
 
 ## Debug the Number Guessing Game
 
-This repository contains intentionally broken Python 3 starter code in `project3.py`. Your task is to debug it. No solution is included.
+This repository contains intentionally broken Python 3 starter code in `project3.py`. Your task is to debug it. 
 
 ### Requirements (15 marks)
 
@@ -19,7 +19,7 @@ Run the program with:
 python3 project3.py
 ```
 
-### Git Challenge 2: Fix Code Using a Pull Request (+5 marks)
+### BONUS: Fix Code Using a Pull Request (+5 marks)
 
 1. Fork this teacher repository to your own GitHub account.
 2. Clone your fork to your computer.
